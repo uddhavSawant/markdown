@@ -9,7 +9,7 @@ this is *italic* text
 - kartik
 1. sam
 2. pranay
- highlight for single 'line' code
+highlight for single 'line' code
 multi line code
 '''html
 <body>
