@@ -9,13 +9,17 @@ this is *italic* text
 - kartik
 1. sam
 2. pranay<br>
+
 highlight for single 'line' code
+
 multi line code<br>
 '''html
 <body>
 <b>hello</b>
 </body>
 '''
-![img](hulk.png)
+
+![img](chris.webp)
+
 [website](https://www.youtube.com/watch?v=te20Ecm-Dq4)
 ---
