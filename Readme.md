@@ -8,14 +8,14 @@ this is *italic* text
 - shrey
 - kartik
 1. sam
-2. pranay
+2. pranay<br>
 highlight for single 'line' code
-multi line code
+multi line code<br>
 '''html
 <body>
 <b>hello</b>
 </body>
 '''
-![img](C:\Users\uddha\Desktop\Screenshot(35).png)
+![img](hulk.png)
 [website](https://www.youtube.com/watch?v=te20Ecm-Dq4)
 ---
