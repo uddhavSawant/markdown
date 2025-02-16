@@ -10,10 +10,10 @@ this is *italic* text
 1. sam
 2. pranay<br>
 
-highlight for single 'line' code
+highlight for single `line` code
 
 multi line code<br>
-'''html<body><b>hello</b></body>'''
+```html<body><b>hello</b></body>```
 
 ![img](chris.webp)
 
