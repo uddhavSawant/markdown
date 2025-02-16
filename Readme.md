@@ -13,11 +13,7 @@ this is *italic* text
 highlight for single 'line' code
 
 multi line code<br>
-'''html
-<body>
-<b>hello</b>
-</body>
-'''
+'''html<body><b>hello</b></body>'''
 
 ![img](chris.webp)
 
