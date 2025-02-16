@@ -3,10 +3,10 @@
 ### heading3
 this is **bold** bold text
 this is *italic* text
--uddhav
--pranay
--shrey
--kartik
+- uddhav
+- pranay
+- shrey
+- kartik
 1. sam
 2. pranay
  highlight for single 'line' code
